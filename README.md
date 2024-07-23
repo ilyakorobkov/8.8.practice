@@ -1,2 +1,15 @@
 # 8.8.practice
-8.8.practice SkillBox
+Директория сборки и переход в неё:
+```
+mkdir build
+cd build
+```
+CMake:
+```
+cmake ..
+make
+```
+Запустите приложение:
+```
+./SnakeGame
+```
